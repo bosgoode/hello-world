@@ -1,5 +1,4 @@
 # hello-world
 repo_newdawn
 
-
-Lorem ipsum...
+Lorem ipsum
